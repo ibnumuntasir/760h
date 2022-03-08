@@ -6,10 +6,6 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-id="CNNIndonesia.id" status="online",CNN Indonesia (720p)
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="GTV.id" status="online",GTV (720p)
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
-#EXTINF:-1 tvg-id="" status="online",iNews (720p)
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
