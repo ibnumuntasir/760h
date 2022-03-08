@@ -5,6 +5,37 @@
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/indosiar.png" group-title="Lokal",Indosiar
 http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 
+#EXTINF:-1 group-title="Lokal",SCTV
+http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 group-title="Lokal",INDOSIAR
+http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 group-title="Lokal",TRANSTV
+http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
+#EXTINF:-1 group-title="Lokal",TRANS7
+http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
+#EXTINF:-1 group-title="Lokal",KOMPASTV
+http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 group-title="Lokal",ANTV
+http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 group-title="Lokal",TVONE
+http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 group-title="Lokal",METROTV
+http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
+#EXTINF:-1 group-title="Lokal",NETTV
+http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 group-title="Lokal",RTV
+http://playlist.urfan.web.id/dr9445/h/h10/02.m3u8
+#EXTINF:-1 group-title="Lokal",TVRI
+http://playlist.urfan.web.id/qwr9ew/s/s11/01.m3u8
+#EXTINF:-1 group-title="Lokal",MYTV
+http://playlist.urfan.web.id/x6bnqe/s/s88/S4/mnf.m3u8
+#EXTINF:-1 group-title="Lokal",OCHANNEL
+http://playlist.urfan.web.id/x6bnqe/s/s73/S4/mnf.m3u8
+#EXTINF:-1 group-title="Lokal",JAKTV
+http://playlist.urfan.web.id/x6bnqe/s/s46/S4/mnf.m3u8
+#EXTINF:-1 group-title="Lokal",DAAITV
+http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/sctv.png" group-title="Lokal",SCTV
@@ -19,36 +50,7 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="International Channel",AL Sunnah Nabawi 3
 http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/01.m3u8
 
-#EXTINF:-1 group-title="IPTV",SCTV
-http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1 group-title="IPTV",INDOSIAR
-http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 group-title="IPTV",TRANSTV
-http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
-#EXTINF:-1 group-title="IPTV",TRANS7
-http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
-#EXTINF:-1 group-title="IPTV",KOMPASTV
-http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
-#EXTINF:-1 group-title="IPTV",ANTV
-http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1 group-title="IPTV",TVONE
-http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1 group-title="IPTV",METROTV
-http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
-#EXTINF:-1 group-title="IPTV",NETTV
-http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 group-title="IPTV",RTV
-http://playlist.urfan.web.id/dr9445/h/h10/02.m3u8
-#EXTINF:-1 group-title="IPTV",TVRI
-http://playlist.urfan.web.id/qwr9ew/s/s11/01.m3u8
-#EXTINF:-1 group-title="IPTV",MYTV
-http://playlist.urfan.web.id/x6bnqe/s/s88/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",OCHANNEL
-http://playlist.urfan.web.id/x6bnqe/s/s73/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",JAKTV
-http://playlist.urfan.web.id/x6bnqe/s/s46/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",DAAITV
-http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
+
 #EXTINF:-1 group-title="IPTV",ELSHINTATV
 http://playlist.urfan.web.id/qwr9ew/s/s10/01.m3u8
 #EXTINF:-1 group-title="IPTV",RODJATV
